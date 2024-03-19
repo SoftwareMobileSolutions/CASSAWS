@@ -1,0 +1,14 @@
+{
+  "ConnectionStrings": {
+    "cn": "Server=10.0.0.5; Database=FleetManager; User ID=mantenimiento; Password=mttofleet; Trusted_Connection=false; MultipleActiveResultSets=true;"
+  },
+  "datosLoginRequest": {
+    "user": "dada",
+    "password": "sJV2Hli6gD3W",
+    "urlRequest": "https://aplicaciones.grupocassa.com/almapac-cassa/api/v1/auth/login",
+    "urlRequest_setData": "https://aplicaciones.grupocassa.com/almapac-cassa/api/v1/getPasoComunidad",
+    "method": "POST",
+    "contentType": "application/json",
+    "timeout": 5000
+  }
+}
